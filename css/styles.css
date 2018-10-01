@@ -95,13 +95,13 @@ html, body {
   bottom: 0;
 }
 
-/*.letter.S:hover .middle, .letter.S.active .middle {
+.letter.S:hover .middle, .letter.S.active .middle {
   width: 100%;
   left: 0;
   margin-left: 0;
 }
 
-.letter.S:hover .top, .letter.S.active .top {
+/*.letter.S:hover .top, .letter.S.active .top {
   left: 30px;
   -webkit-transform: skewX(-24deg);
   transform: skewX(-24deg);
