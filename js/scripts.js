@@ -7,9 +7,9 @@ var navigate = (function() {
   });
 })();
 
-/*var startDelay = 2000;
+var startDelay = 2000;
 
-$("html, body, .container").click(function() {
+/*$("html, body, .container").click(function() {
   if ($(".letter").hasClass("active")) {
     $(".letter").removeClass("active");
   } else {
