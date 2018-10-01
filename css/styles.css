@@ -83,13 +83,13 @@ html, body {
   position: absolute;
 }
 
-/*.letter.S .top {
+.letter.S .top {
   left: 50%;
   margin-left: -10px;
   top: 0;
 }
 
-.letter.S .bottom {
+/*.letter.S .bottom {
   right: 50%;
   margin-right: -10px;
   bottom: 0;
