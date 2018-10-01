@@ -65,7 +65,7 @@ html, body {
   box-shadow: rgba(100, 100, 100, 0.6) 5px 5px 10px;
 }
 
-/*.letter.S .middle {
+.letter.S .middle {
   width: 20px;
   height: 20px;
   background-color: black;
@@ -76,7 +76,7 @@ html, body {
   position: absolute;
 }
 
-.letter.S .top, .letter.S .bottom {
+/*.letter.S .top, .letter.S .bottom {
   width: 20px;
   height: calc(50% - 10px);
   background-color: black;
