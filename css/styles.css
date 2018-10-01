@@ -289,14 +289,14 @@ html, body {
   right: 30%;
 }
 
-/*.letter.W .left, .letter.W .right {
+.letter.W .left, .letter.W .right {
   position: absolute;
   width: 20px;
   height: 100%;
   background: black;
 }
 
-.letter.W .left {
+/*.letter.W .left {
   left: 50%;
   margin-left: -10px;
 }
