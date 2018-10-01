@@ -253,11 +253,11 @@ html, body {
   background: black;
 }
 
-/*.letter.O div[class*="top-"] {
+.letter.O div[class*="top-"] {
   top: 0;
 }
 
-.letter.O div[class*="bottom-"] {
+/*.letter.O div[class*="bottom-"] {
   bottom: 0;
 }
 
