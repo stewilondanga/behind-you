@@ -43,17 +43,16 @@ html, body {
   white-space: nowrap;
 }
 
-/*.letter {
+.letter {
   width: 100px;
   height: 200px;
   position: relative;
   display: inline-block;
   /* background-color: gray; */
-
-/*transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
 
-.letter * {
+/*.letter * {
   -webkit-backface-visibility: hidden;
   -webkit-transform-style: preserve-3d;
 }
