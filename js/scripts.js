@@ -28,11 +28,11 @@ $(".letter").each(function(key, value) {
   }, startDelay + 3000 + 200 * $(value).index());
 });
 
-/*setTimeout(function() {
+setTimeout(function() {
   $(".letter").removeClass("active");
 }, startDelay + 2500);
 
-setTimeout(function() {
+/*setTimeout(function() {
   $(".letter").addClass("active");
 }, startDelay + 500);
 
