@@ -195,13 +195,13 @@ html, body {
   transform: skewX(10deg);
 }
 
-/*.letter.A:hover .middle, .letter.A.active .middle {
+.letter.A:hover .middle, .letter.A.active .middle {
   width: 50px;
   left: 50%;
   margin-left: -25px;
 }
 
-.letter.D .left {
+/*.letter.D .left {
   left: 50%;
   margin-left: -10px;
   position: absolute;
