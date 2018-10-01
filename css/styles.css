@@ -219,11 +219,11 @@ html, body {
   position: absolute;
 }
 
-/*.letter.D .top {
+.letter.D .top {
   top: 0;
 }
 
-.letter.D .bottom {
+/*.letter.D .bottom {
   bottom: 0;
 }
 
