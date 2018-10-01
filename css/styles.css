@@ -324,11 +324,11 @@ html, body {
   margin-right: -10px;
 }
 
-/*.letter.W:hover .left, .letter.W.active .left {
+.letter.W:hover .left, .letter.W.active .left {
   left: 10px;
 }
 
-.letter.W:hover .right, .letter.W.active .right {
+/*.letter.W:hover .right, .letter.W.active .right {
   right: 10px;
 }
 
