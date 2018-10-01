@@ -296,12 +296,12 @@ html, body {
   background: black;
 }
 
-/*.letter.W .left {
+.letter.W .left {
   left: 50%;
   margin-left: -10px;
 }
 
-.letter.W .right {
+/*.letter.W .right {
   right: 50%;
   margin-right: -10px;
 }
