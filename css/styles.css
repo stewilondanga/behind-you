@@ -113,14 +113,14 @@ html, body {
   transform: skewX(-24deg);
 }
 
-/*.letter.H .left, .letter.H .right {
+.letter.H .left, .letter.H .right {
   position: absolute;
   width: 20px;
   height: 100%;
   background: black;
 }
 
-.letter.H .left {
+/*.letter.H .left {
   left: 50%;
   margin-left: -10px;
 }
