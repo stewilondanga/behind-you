@@ -276,12 +276,12 @@ html, body {
   transform: skewX(-20deg);
 }
 
-/*.letter.O:hover .top-right, .letter.O:hover .bottom-left, .letter.O.active .top-right, .letter.O.active .bottom-left {
+.letter.O:hover .top-right, .letter.O:hover .bottom-left, .letter.O.active .top-right, .letter.O.active .bottom-left {
   -webkit-transform: skewX(20deg);
   transform: skewX(20deg);
 }
 
-.letter.O:hover div[class$="-left"], .letter.O.active div[class$="-left"] {
+/*.letter.O:hover div[class$="-left"], .letter.O.active div[class$="-left"] {
   left: 30%;
 }
 
