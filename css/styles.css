@@ -281,11 +281,11 @@ html, body {
   transform: skewX(20deg);
 }
 
-/*.letter.O:hover div[class$="-left"], .letter.O.active div[class$="-left"] {
+.letter.O:hover div[class$="-left"], .letter.O.active div[class$="-left"] {
   left: 30%;
 }
 
-.letter.O:hover div[class$="-right"], .letter.O.active div[class$="-right"] {
+/*.letter.O:hover div[class$="-right"], .letter.O.active div[class$="-right"] {
   right: 30%;
 }
 
