@@ -332,13 +332,13 @@ html, body {
   right: 10px;
 }
 
-/*.letter.W:hover .middle-left, .letter.W.active .middle-left {
+.letter.W:hover .middle-left, .letter.W.active .middle-left {
   left: 30%;
   -webkit-transform: skewX(-20deg);
   transform: skewX(-20deg);
 }
 
-.letter.W:hover .middle-right, .letter.W.active .middle-right {
+/*.letter.W:hover .middle-right, .letter.W.active .middle-right {
   right: 30%;
   -webkit-transform: skewX(20deg);
   transform: skewX(20deg);
