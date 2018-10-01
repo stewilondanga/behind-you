@@ -223,11 +223,11 @@ html, body {
   top: 0;
 }
 
-/*.letter.D .bottom {
+.letter.D .bottom {
   bottom: 0;
 }
 
-.letter.D:hover .left, .letter.D.active .left {
+/*.letter.D:hover .left, .letter.D.active .left {
   left: 0;
   margin-left: 0;
 }
