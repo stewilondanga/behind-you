@@ -32,10 +32,10 @@ setTimeout(function() {
   $(".letter").removeClass("active");
 }, startDelay + 2500);
 
-/*setTimeout(function() {
+setTimeout(function() {
   $(".letter").addClass("active");
 }, startDelay + 500);
 
-setTimeout(function() {
+/*setTimeout(function() {
   $(".letter").removeClass("active");
 }, 10000);
