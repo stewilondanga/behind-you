@@ -162,12 +162,12 @@ html, body {
   background: black;
 }
 
-/*.letter.A .left {
+.letter.A .left {
   left: 50%;
   margin-left: -10px;
 }
 
-.letter.A .right {
+/*.letter.A .right {
   right: 50%;
   margin-right: -10px;
 }
