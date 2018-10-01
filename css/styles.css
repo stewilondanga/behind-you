@@ -301,12 +301,12 @@ html, body {
   margin-left: -10px;
 }
 
-/*.letter.W .right {
+.letter.W .right {
   right: 50%;
   margin-right: -10px;
 }
 
-.letter.W .middle-left, .letter.W .middle-right {
+/*.letter.W .middle-left, .letter.W .middle-right {
   position: absolute;
   width: 20px;
   height: 50%;
