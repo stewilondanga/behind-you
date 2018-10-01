@@ -125,12 +125,12 @@ html, body {
   margin-left: -10px;
 }
 
-/*.letter.H .right {
+.letter.H .right {
   right: 50%;
   margin-right: -10px;
 }
 
-.letter.H .middle {
+/*.letter.H .middle {
   width: 20px;
   height: 20px;
   background-color: black;
