@@ -130,7 +130,7 @@ html, body {
   margin-right: -10px;
 }
 
-/*.letter.H .middle {
+.letter.H .middle {
   width: 20px;
   height: 20px;
   background-color: black;
@@ -141,7 +141,7 @@ html, body {
   position: absolute;
 }
 
-.letter.H:hover .left, .letter.H.active .left {
+/*.letter.H:hover .left, .letter.H.active .left {
   left: 10px;
 }
 
