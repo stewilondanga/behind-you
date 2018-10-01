@@ -52,12 +52,12 @@ html, body {
   transition: all 0.2s ease-out;
 }
 
-/*.letter * {
+.letter * {
   -webkit-backface-visibility: hidden;
   -webkit-transform-style: preserve-3d;
 }
 
-.letter>* {
+/*.letter>* {
   transition: all 0.2s ease-out;
 }
 
