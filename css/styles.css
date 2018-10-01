@@ -261,12 +261,12 @@ html, body {
   bottom: 0;
 }
 
-/*.letter.O div[class$="-left"] {
+.letter.O div[class$="-left"] {
   left: 50%;
   margin-left: -10px;
 }
 
-.letter.O div[class$="-right"] {
+/*.letter.O div[class$="-right"] {
   right: 50%;
   margin-right: -10px;
 }
