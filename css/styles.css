@@ -172,7 +172,7 @@ html, body {
   margin-right: -10px;
 }
 
-/*.letter.A .middle {
+.letter.A .middle {
   width: 20px;
   height: 20px;
   background-color: black;
@@ -183,7 +183,7 @@ html, body {
   position: absolute;
 }
 
-.letter.A:hover .left, .letter.A.active .left {
+/*.letter.A:hover .left, .letter.A.active .left {
   left: 30px;
   -webkit-transform: skewX(-10deg);
   transform: skewX(-10deg);
