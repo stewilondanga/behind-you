@@ -232,14 +232,14 @@ html, body {
   margin-left: 0;
 }
 
-/*.letter.D:hover .top, .letter.D.active .top {
+.letter.D:hover .top, .letter.D.active .top {
   width: 25px;
   left: 46.5%;
   -webkit-transform: skewX(36deg);
   transform: skewX(36deg);
 }
 
-.letter.D:hover .bottom, .letter.D.active .bottom {
+/*.letter.D:hover .bottom, .letter.D.active .bottom {
   width: 25px;
   left: 46.5%;
   -webkit-transform: skewX(-36deg);
