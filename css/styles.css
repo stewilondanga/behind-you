@@ -76,14 +76,14 @@ html, body {
   position: absolute;
 }
 
-/*.letter.S .top, .letter.S .bottom {
+.letter.S .top, .letter.S .bottom {
   width: 20px;
   height: calc(50% - 10px);
   background-color: black;
   position: absolute;
 }
 
-.letter.S .top {
+/*.letter.S .top {
   left: 50%;
   margin-left: -10px;
   top: 0;
