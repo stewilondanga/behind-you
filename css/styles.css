@@ -227,12 +227,12 @@ html, body {
   bottom: 0;
 }
 
-/*.letter.D:hover .left, .letter.D.active .left {
+.letter.D:hover .left, .letter.D.active .left {
   left: 0;
   margin-left: 0;
 }
 
-.letter.D:hover .top, .letter.D.active .top {
+/*.letter.D:hover .top, .letter.D.active .top {
   width: 25px;
   left: 46.5%;
   -webkit-transform: skewX(36deg);
