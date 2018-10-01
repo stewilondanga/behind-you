@@ -338,13 +338,13 @@ html, body {
   transform: skewX(-20deg);
 }
 
-/*.letter.W:hover .middle-right, .letter.W.active .middle-right {
+.letter.W:hover .middle-right, .letter.W.active .middle-right {
   right: 30%;
   -webkit-transform: skewX(20deg);
   transform: skewX(20deg);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
