@@ -314,12 +314,12 @@ html, body {
   background: black;
 }
 
-/*.letter.W .middle-left {
+.letter.W .middle-left {
   left: 50%;
   margin-left: -10px;
 }
 
-.letter.W .middle-right {
+/*.letter.W .middle-right {
   right: 50%;
   margin-right: -10px;
 }
