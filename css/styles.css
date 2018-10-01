@@ -101,13 +101,13 @@ html, body {
   margin-left: 0;
 }
 
-/*.letter.S:hover .top, .letter.S.active .top {
+.letter.S:hover .top, .letter.S.active .top {
   left: 30px;
   -webkit-transform: skewX(-24deg);
   transform: skewX(-24deg);
 }
 
-.letter.S:hover .bottom, .letter.S.active .bottom {
+/*.letter.S:hover .bottom, .letter.S.active .bottom {
   right: 30px;
   -webkit-transform: skewX(-24deg);
   transform: skewX(-24deg);
