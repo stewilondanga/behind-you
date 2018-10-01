@@ -120,12 +120,12 @@ html, body {
   background: black;
 }
 
-/*.letter.H .left {
+.letter.H .left {
   left: 50%;
   margin-left: -10px;
 }
 
-.letter.H .right {
+/*.letter.H .right {
   right: 50%;
   margin-right: -10px;
 }
