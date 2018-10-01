@@ -61,11 +61,11 @@ html, body {
   transition: all 0.2s ease-out;
 }
 
-/*.letter:hover>*, .letter.active>* {
+.letter:hover>*, .letter.active>* {
   box-shadow: rgba(100, 100, 100, 0.6) 5px 5px 10px;
 }
 
-.letter.S .middle {
+/*.letter.S .middle {
   width: 20px;
   height: 20px;
   background-color: black;
