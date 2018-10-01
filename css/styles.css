@@ -141,11 +141,11 @@ html, body {
   position: absolute;
 }
 
-/*.letter.H:hover .left, .letter.H.active .left {
+.letter.H:hover .left, .letter.H.active .left {
   left: 10px;
 }
 
-.letter.H:hover .right, .letter.H.active .right {
+/*.letter.H:hover .right, .letter.H.active .right {
   right: 10px;
 }
 
