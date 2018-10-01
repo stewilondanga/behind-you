@@ -319,12 +319,12 @@ html, body {
   margin-left: -10px;
 }
 
-/*.letter.W .middle-right {
+.letter.W .middle-right {
   right: 50%;
   margin-right: -10px;
 }
 
-.letter.W:hover .left, .letter.W.active .left {
+/*.letter.W:hover .left, .letter.W.active .left {
   left: 10px;
 }
 
