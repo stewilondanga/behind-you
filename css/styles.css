@@ -257,11 +257,11 @@ html, body {
   top: 0;
 }
 
-/*.letter.O div[class*="bottom-"] {
+.letter.O div[class*="bottom-"] {
   bottom: 0;
 }
 
-.letter.O div[class$="-left"] {
+/*.letter.O div[class$="-left"] {
   left: 50%;
   margin-left: -10px;
 }
