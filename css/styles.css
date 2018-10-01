@@ -266,12 +266,12 @@ html, body {
   margin-left: -10px;
 }
 
-/*.letter.O div[class$="-right"] {
+.letter.O div[class$="-right"] {
   right: 50%;
   margin-right: -10px;
 }
 
-.letter.O:hover .top-left, .letter.O:hover .bottom-right, .letter.O.active .top-left, .letter.O.active .bottom-right {
+/*.letter.O:hover .top-left, .letter.O:hover .bottom-right, .letter.O.active .top-left, .letter.O.active .bottom-right {
   -webkit-transform: skewX(-20deg);
   transform: skewX(-20deg);
 }
