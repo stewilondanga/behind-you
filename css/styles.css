@@ -306,7 +306,7 @@ html, body {
   margin-right: -10px;
 }
 
-/*.letter.W .middle-left, .letter.W .middle-right {
+.letter.W .middle-left, .letter.W .middle-right {
   position: absolute;
   width: 20px;
   height: 50%;
@@ -314,7 +314,7 @@ html, body {
   background: black;
 }
 
-.letter.W .middle-left {
+/*.letter.W .middle-left {
   left: 50%;
   margin-left: -10px;
 }
