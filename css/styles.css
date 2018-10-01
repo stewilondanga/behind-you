@@ -246,14 +246,14 @@ html, body {
   transform: skewX(-36deg);
 }
 
-/*.letter.O .top-left, .letter.O .top-right, .letter.O .bottom-left, .letter.O .bottom-right {
+.letter.O .top-left, .letter.O .top-right, .letter.O .bottom-left, .letter.O .bottom-right {
   position: absolute;
   width: 20px;
   height: 50%;
   background: black;
 }
 
-.letter.O div[class*="top-"] {
+/*.letter.O div[class*="top-"] {
   top: 0;
 }
 
