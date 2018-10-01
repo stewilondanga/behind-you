@@ -89,13 +89,13 @@ html, body {
   top: 0;
 }
 
-/*.letter.S .bottom {
+.letter.S .bottom {
   right: 50%;
   margin-right: -10px;
   bottom: 0;
 }
 
-.letter.S:hover .middle, .letter.S.active .middle {
+/*.letter.S:hover .middle, .letter.S.active .middle {
   width: 100%;
   left: 0;
   margin-left: 0;
