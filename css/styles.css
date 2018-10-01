@@ -149,13 +149,13 @@ html, body {
   right: 10px;
 }
 
-/*.letter.H:hover .middle, .letter.H.active .middle {
+.letter.H:hover .middle, .letter.H.active .middle {
   width: 60px;
   left: 50%;
   margin-left: -30px;
 }
 
-.letter.A .left, .letter.A .right {
+/*.letter.A .left, .letter.A .right {
   position: absolute;
   width: 20px;
   height: 100%;
