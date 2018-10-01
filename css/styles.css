@@ -285,11 +285,11 @@ html, body {
   left: 30%;
 }
 
-/*.letter.O:hover div[class$="-right"], .letter.O.active div[class$="-right"] {
+.letter.O:hover div[class$="-right"], .letter.O.active div[class$="-right"] {
   right: 30%;
 }
 
-.letter.W .left, .letter.W .right {
+/*.letter.W .left, .letter.W .right {
   position: absolute;
   width: 20px;
   height: 100%;
