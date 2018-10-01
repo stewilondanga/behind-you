@@ -9,7 +9,7 @@ var navigate = (function() {
 
 var startDelay = 2000;
 
-/*$("html, body, .container").click(function() {
+$("html, body, .container").click(function() {
   if ($(".letter").hasClass("active")) {
     $(".letter").removeClass("active");
   } else {
@@ -17,7 +17,7 @@ var startDelay = 2000;
   }
 });
 
-$(".letter").each(function(key, value) {
+/*$(".letter").each(function(key, value) {
   $(value).height(20);
   $(".letters").hide().removeClass("hidden").fadeIn("slow");
   setTimeout(function() {
