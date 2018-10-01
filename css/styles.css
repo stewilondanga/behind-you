@@ -183,13 +183,13 @@ html, body {
   position: absolute;
 }
 
-/*.letter.A:hover .left, .letter.A.active .left {
+.letter.A:hover .left, .letter.A.active .left {
   left: 30px;
   -webkit-transform: skewX(-10deg);
   transform: skewX(-10deg);
 }
 
-.letter.A:hover .right, .letter.A.active .right {
+/*.letter.A:hover .right, .letter.A.active .right {
   right: 30px;
   -webkit-transform: skewX(10deg);
   transform: skewX(10deg);
